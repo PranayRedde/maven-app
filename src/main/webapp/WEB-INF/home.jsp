@@ -12,10 +12,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Prasad Software Solutions Pvt Ltd.</h1>
+<h1 align="center">Welcome to PRANAY REDDY Software Solutions Pvt Ltd.</h1>
 <h1 align="center">
-Prasad Challagondla SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will start on 21 Jul 2020 7 PM IST - Online , and on Sep 21st 9 AM we have class room demo.
-	Very Good Training center for DevOps in Marathahalli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+PRANAY REDDY SOFTWARE SOLUTIONS--- TRUSTED SOFTWARE COMPANY</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -23,12 +22,8 @@ Prasad Challagondla SOFTWARE SOLUTIONS---	100 % Job Guarntee DevOps Program will
 
 	</span>
 	<span style="font-weight: bold;">
-		Prasad Software Solutions Pvt Ltd, 
-		SGR Dental college Road,
-		Martha Halli,Opp To Madhurai Iddly House
-		Bangalore.
-		+91-9603128227
-		+91-8296339239
+		PRANAYREDDY Software Solutions Pvt Ltd, 
+		VANASTHALIPURAM,HYDERABAD
 	</span>
 </div>
 <hr>
