@@ -29,8 +29,8 @@ PRANAY REDDY SOFTWARE SOLUTIONS--- TRUSTED SOFTWARE COMPANY</h1>
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Prasad Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by Prasad Technologies</a> </small></p>
+<p align=center>Pranay Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by Pranay Technologies</a> </small></p>
 
 </body>
 </html>
